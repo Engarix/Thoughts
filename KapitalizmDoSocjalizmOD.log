@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.5.27)  2 JUN 2026 01:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.5.27)  13 JUN 2026 04:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -57,91 +57,53 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 
-Overfull \hbox (7.83592pt too wide) in paragraph at lines 19--20
-\T1/cmr/m/n/12 wszyscy w postaci drasty-cznego wzrostu kosztów »y-cia, post¦pu-
-j¡cej degradacji
- []
-
-
-Overfull \hbox (10.90546pt too wide) in paragraph at lines 23--24
-[]\T1/cmr/m/n/12 Rozwi¡zaniem nie jest caªkowite odrzuce-nie wol-nego rynku, an
-i tym bardziej
- []
-
-
-Overfull \hbox (2.43704pt too wide) in paragraph at lines 23--24
-\T1/cmr/m/n/12 po-zostaw-ie-nie go samemu so-bie. Wyma-gana jest in-ter-wencja 
-oparta na prostej
- []
-
-
-Overfull \hbox (14.03586pt too wide) in paragraph at lines 23--24
-\T1/cmr/m/n/12 log-ice: kap-i-tal-izm funkcjonuje op-ty-mal-nie jako mech-a-niz
-m star-towy na poziomie
- []
-
-
-Overfull \hbox (4.86719pt too wide) in paragraph at lines 25--25
-[]\T1/cmr/bx/n/17.28 1. Mech-a-nizm kryzysu: Skala i puªapka niesko«c-
+Overfull \hbox (0.47902pt too wide) in paragraph at lines 20--21
+\T1/cmr/m/n/12 rzeczy je-dynie narz¦dzi-ami. Narz¦dzi-ami, które dzi-aªaj¡ popr
+awnie wyª¡cznie
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (24.82161pt too wide) in paragraph at lines 31--32
-\T1/cmr/m/n/12 oby-wa-teli i pod-wykon-awców. In-nowacja zostaje za-st¡-pi-ona 
-celowym postarzaniem
+Overfull \hbox (28.62198pt too wide) in paragraph at lines 36--37
+\T1/cmr/m/n/12 doceni¢ ten sys-tem za jego pier-wotny cel moralny: pri-o-ry-te-
+ty-zowanie spoªecze«stwa
  []
 
 
-Overfull \hbox (1.6361pt too wide) in paragraph at lines 31--32
-\T1/cmr/m/n/12 pro-duk-tów, za-mykaniem ekosys-temów oraz narzu-caniem wirtu-al
--nych haraczy.
- []
-
-
-Overfull \hbox (11.56291pt too wide) in paragraph at lines 40--41
-\T1/cmr/m/n/12 to by¢ domin-u-j¡cy udziaª w przepªy-wie to-warów, sta-tus plat-
-formy stanow-
+Overfull \hbox (21.9651pt too wide) in paragraph at lines 38--39
+[]\T1/cmr/m/n/12 Mimo tych szla-chet-nych za-ªo»e«, wdro»e-nie czys-tego soc-ja
+l-izmu jako rozwi¡za-
  []
 
 [2]
-Overfull \hbox (0.89252pt too wide) in paragraph at lines 42--43
-\T1/cmr/m/n/12 rozwój tech-nologii oraz drasty-czne ob-ni»e-nie kosztów dla spo
-ªecze«stwa. 
+Overfull \hbox (12.30634pt too wide) in paragraph at lines 52--53
+[]\T1/cmr/m/n/12 Musimy za-chowa¢ kap-i-tal-izm na poziomie maªych i ±red-nich 
+przed-si¦biorstw.
  []
 
-
-Overfull \hbox (3.82237pt too wide) in paragraph at lines 55--56
-\T1/cmr/m/n/12 Sceptycy cz¦sto py-taj¡, w jaki sposób pa«stwa mi-aªyby wymusi¢ 
-tak radykalne
- []
-
-[3] [4] (./KapitalizmDoSocjalizmOD.aux)
+[3] (./KapitalizmDoSocjalizmOD.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 709 strings out of 469515
- 11063 string characters out of 5470807
+ 698 strings out of 469515
+ 10872 string characters out of 5470807
  441756 words of memory out of 5000000
- 29426 multiletter control sequences out of 15000+600000
- 635356 words of font info for 53 fonts, out of 8000000 for 9000
+ 29418 multiletter control sequences out of 15000+600000
+ 633559 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 35i,5n,38p,672b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk
-> </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk>
- </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> 
-</home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> <
-/home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </
-home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </h
-ome/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk>
-Output written on KapitalizmDoSocjalizmOD.pdf (4 pages, 75487 bytes).
+ 35i,5n,38p,719b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk
+> </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk>
+ </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> 
+</home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk>
+Output written on KapitalizmDoSocjalizmOD.pdf (3 pages, 52800 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 166 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
