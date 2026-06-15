@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.5.27)  13 JUN 2026 04:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.5.27)  15 JUN 2026 03:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -77,33 +77,93 @@ l-izmu jako rozwi¡za-
  []
 
 [2]
-Overfull \hbox (12.30634pt too wide) in paragraph at lines 52--53
+Overfull \hbox (5.06734pt too wide) in paragraph at lines 46--46
+[]\T1/cmr/bx/n/17.28 5. Paradoks za-wªaszc-zonego pa«stwa i rola prawa
+ []
+
+
+Overfull \hbox (8.29494pt too wide) in paragraph at lines 52--53
+[]\T1/cmr/m/n/12 Rozwi¡zaniem paradoksu za-wªaszc-zonego pa«stwa jest prze-nies
+ie-nie ci¦»aru
+ []
+
+[3]
+Overfull \hbox (8.52141pt too wide) in paragraph at lines 58--59
+\T1/cmr/m/n/12 do-browolne, a pa«stwa na-jbardziej za-wªaszc-zone przez monopol
+e mog¡ odmaw-
+ []
+
+[4]
+Overfull \hbox (1.24982pt too wide) in paragraph at lines 66--67
+[]\T1/cmr/bx/n/12 Warstwa wªas-no±-ciowa \T1/cmr/m/n/12 ma charak-ter wielostro
+nny. W mo-men-cie trans-
+ []
+
+
+Overfull \hbox (0.4614pt too wide) in paragraph at lines 66--67
+\T1/cmr/m/n/12 au-tomaty-cznie jego wspóªwªa±-ci-cielami -- pro-por-cjon-al-nie
+ do liczby u»ytkown-
+ []
+
+
+Overfull \hbox (11.7082pt too wide) in paragraph at lines 66--67
+\T1/cmr/m/n/12 ików lub wielko±ci lokalnego rynku. ›adne po-je-dyncze pa«stwo a
+ni ugrupowanie
+ []
+
+
+Overfull \hbox (1.294pt too wide) in paragraph at lines 68--69
+[]\T1/cmr/bx/n/12 Warstwa zarz¡d-cza \T1/cmr/m/n/12 jest celowo odi-zolowana od
+ bie»¡cej poli-tyki. Codzi-
+ []
+
+
+Overfull \hbox (23.77946pt too wide) in paragraph at lines 70--71
+\T1/cmr/m/n/12 poli-ty-czny. Jego je-dynym zobow-i¡zaniem po-zostaje sªu»e-nie 
+wszys-tkim u»ytkown-
+ []
+
+
+Overfull \hbox (11.84969pt too wide) in paragraph at lines 76--77
+\T1/cmr/m/n/12 nie przez po-je-dyncze pa«stwa po-datne na za-wªaszcze-nie, lecz
+ przez wielostronny
+ []
+
+[5]
+Overfull \hbox (12.30634pt too wide) in paragraph at lines 78--79
 []\T1/cmr/m/n/12 Musimy za-chowa¢ kap-i-tal-izm na poziomie maªych i ±red-nich 
 przed-si¦biorstw.
  []
 
-[3] (./KapitalizmDoSocjalizmOD.aux)
+
+Overfull \hbox (33.87555pt too wide) in paragraph at lines 82--83
+\T1/cmr/m/n/12 którego »aden monopol nie jest w stanie za-wªaszczy¢, mo»emy chr
+oni¢ spoªecze«stwo
+ []
+
+[6] (./KapitalizmDoSocjalizmOD.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 698 strings out of 469515
- 10872 string characters out of 5470807
+ 700 strings out of 469515
+ 10894 string characters out of 5470807
  441756 words of memory out of 5000000
- 29418 multiletter control sequences out of 15000+600000
- 633559 words of font info for 50 fonts, out of 8000000 for 9000
+ 29419 multiletter control sequences out of 15000+600000
+ 634335 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 35i,5n,38p,719b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk
-> </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk>
- </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> 
-</home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk>
-Output written on KapitalizmDoSocjalizmOD.pdf (3 pages, 52800 bytes).
+ 35i,6n,38p,1102b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk
+> </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
+ </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> 
+</home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> <
+/home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk>
+Output written on KapitalizmDoSocjalizmOD.pdf (6 pages, 67406 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 204 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
