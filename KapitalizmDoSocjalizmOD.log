@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.5.27)  17 JUN 2026 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.6.19)  20 JUN 2026 03:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (./KapitalizmDoSocjalizmOD.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size12.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
@@ -23,15 +23,15 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
 )
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
 )
@@ -56,119 +56,119 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
+ [1
 
-Overfull \hbox (6.03922pt too wide) in paragraph at lines 16--17
-\T1/cmr/m/n/12 Dzisiejsze spoªecze«stwo to efekt tysi¡-cleci ewolucji i ludzkie
-j potrzeby ª¡czenia
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
+dvips/cm-super/cm-super-t1.enc}] [2] [3]
+Overfull \hbox (13.64427pt too wide) in paragraph at lines 52--53
+\T1/cmr/m/n/12 sze ni» rz¡dy wielu kra-jów za-czy-naj¡ dyk-towa¢ prawo, uciekaj
+¡ od odpowiedzial-
  []
 
 
-Overfull \hbox (2.51709pt too wide) in paragraph at lines 16--17
-\T1/cmr/m/n/12 cz¦li±my bu-dowa¢ cy-wiliza-cje, byªa ch¦¢ za-g-waran-towa-nia s
-o-bie lep-szych szans
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (28.62198pt too wide) in paragraph at lines 48--49
+Overfull \hbox (28.62198pt too wide) in paragraph at lines 56--57
 \T1/cmr/m/n/12 doceni¢ ten sys-tem za jego pier-wotny cel moralny: pri-o-ry-te-
 ty-zowanie spoªecze«stwa
  []
 
-[3]
-Overfull \hbox (21.9651pt too wide) in paragraph at lines 50--51
+
+Overfull \hbox (21.9651pt too wide) in paragraph at lines 58--59
 []\T1/cmr/m/n/12 Mimo tych szla-chet-nych za-ªo»e«, wdro»e-nie czys-tego soc-ja
 l-izmu jako rozwi¡za-
  []
 
-
-Overfull \hbox (5.06734pt too wide) in paragraph at lines 58--58
-[]\T1/cmr/bx/n/17.28 5. Paradoks za-wªaszc-zonego pa«stwa i rola prawa
- []
-
 [4]
-Overfull \hbox (8.29494pt too wide) in paragraph at lines 64--65
-[]\T1/cmr/m/n/12 Rozwi¡zaniem paradoksu za-wªaszc-zonego pa«stwa jest prze-nies
-ie-nie ci¦»aru
+Overfull \hbox (16.50455pt too wide) in paragraph at lines 66--66
+[]\T1/cmr/bx/n/17.28 5. Bu-dowa sprawnego auta / Propozy-cja rozwi¡za-
  []
 
 
-Overfull \hbox (8.52141pt too wide) in paragraph at lines 70--71
+Overfull \hbox (8.52141pt too wide) in paragraph at lines 74--75
 \T1/cmr/m/n/12 do-browolne, a pa«stwa na-jbardziej za-wªaszc-zone przez monopol
 e mog¡ odmaw-
  []
 
 [5]
-Overfull \hbox (1.24982pt too wide) in paragraph at lines 78--79
+Overfull \hbox (6.16992pt too wide) in paragraph at lines 78--79
+\T1/cmr/m/n/12 Proponowana trans-for-ma-cja wymaga sprawnego pa«stwa jako ar-bi
+-tra i egzeku-
+ []
+
+[6]
+Overfull \hbox (1.24982pt too wide) in paragraph at lines 90--91
 []\T1/cmr/bx/n/12 Warstwa wªas-no±-ciowa \T1/cmr/m/n/12 ma charak-ter wielostro
 nny. W mo-men-cie trans-
  []
 
 
-Overfull \hbox (0.4614pt too wide) in paragraph at lines 78--79
+Overfull \hbox (0.4614pt too wide) in paragraph at lines 90--91
 \T1/cmr/m/n/12 au-tomaty-cznie jego wspóªwªa±-ci-cielami -- pro-por-cjon-al-nie
  do liczby u»ytkown-
  []
 
 
-Overfull \hbox (11.7082pt too wide) in paragraph at lines 78--79
+Overfull \hbox (11.7082pt too wide) in paragraph at lines 90--91
 \T1/cmr/m/n/12 ików lub wielko±ci lokalnego rynku. ›adne po-je-dyncze pa«stwo a
 ni ugrupowanie
  []
 
 
-Overfull \hbox (1.294pt too wide) in paragraph at lines 80--81
+Overfull \hbox (1.294pt too wide) in paragraph at lines 92--93
 []\T1/cmr/bx/n/12 Warstwa zarz¡d-cza \T1/cmr/m/n/12 jest celowo odi-zolowana od
  bie»¡cej poli-tyki. Codzi-
  []
 
 
-Overfull \hbox (23.77946pt too wide) in paragraph at lines 82--83
+Overfull \hbox (23.77946pt too wide) in paragraph at lines 94--95
 \T1/cmr/m/n/12 poli-ty-czny. Jego je-dynym zobow-i¡zaniem po-zostaje sªu»e-nie 
 wszys-tkim u»ytkown-
  []
 
-[6]
-Overfull \hbox (11.84969pt too wide) in paragraph at lines 88--89
+[7]
+Overfull \hbox (9.91357pt too wide) in paragraph at lines 100--101
+\T1/cmr/m/n/12 nej usªugi po ucz-ci-wej ce-nie. Cena przes-taje by¢ narz¦dziem 
+ek-strakcji warto±ci,
+ []
+
+
+Overfull \hbox (11.84969pt too wide) in paragraph at lines 110--111
 \T1/cmr/m/n/12 nie przez po-je-dyncze pa«stwa po-datne na za-wªaszcze-nie, lecz
  przez wielostronny
  []
 
 
-Overfull \hbox (12.30634pt too wide) in paragraph at lines 90--91
+Overfull \hbox (12.30634pt too wide) in paragraph at lines 112--113
 []\T1/cmr/m/n/12 Musimy za-chowa¢ kap-i-tal-izm na poziomie maªych i ±red-nich 
 przed-si¦biorstw.
  []
 
-
-Overfull \hbox (33.87555pt too wide) in paragraph at lines 94--95
+[8]
+Overfull \hbox (33.87555pt too wide) in paragraph at lines 116--117
 \T1/cmr/m/n/12 którego »aden monopol nie jest w stanie za-wªaszczy¢, mo»emy chr
 oni¢ spoªecze«stwo
  []
 
-[7] (./KapitalizmDoSocjalizmOD.aux)
+[9] (./KapitalizmDoSocjalizmOD.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 700 strings out of 469515
- 10894 string characters out of 5470807
+ 701 strings out of 467533
+ 10993 string characters out of 5422138
  441756 words of memory out of 5000000
- 29419 multiletter control sequences out of 15000+600000
+ 29675 multiletter control sequences out of 15000+600000
  634335 words of font info for 51 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  35i,5n,38p,1102b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk
-> </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
- </home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> 
-</home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> <
-/home/engarix/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk>
-Output written on KapitalizmDoSocjalizmOD.pdf (7 pages, 71704 bytes).
+</usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on KapitalizmDoSocjalizmOD.pdf (9 pages, 115450 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
