@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.6.19)  25 JUN 2026 05:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.6.19)  28 JUN 2026 02:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -56,7 +56,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
- [1
+
+Overfull \hbox (22.7809pt too wide) in paragraph at lines 25--30
+\T1/cmr/m/n/12 codzi-en-nej walki o byt wewn¡trz sys-temu gospo-dar-czego, któr
+y sami stworzyli±my.
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
 dvips/cm-super/cm-super-t1.enc}] [2]
@@ -131,13 +137,13 @@ Overfull \hbox (21.70435pt too wide) in paragraph at lines 197--226
 fun-duszu naftowego:
  []
 
-[8] [9]
+[8] [9] [10]
 Overfull \hbox (11.84969pt too wide) in paragraph at lines 311--312
 \T1/cmr/m/n/12 nie przez po-je-dyncze pa«stwa po-datne na za-wªaszcze-nie, lecz
  przez wielostronny
  []
 
-[10]
+
 Overfull \hbox (12.30634pt too wide) in paragraph at lines 313--314
 []\T1/cmr/m/n/12 Musimy za-chowa¢ kap-i-tal-izm na poziomie maªych i ±red-nich 
 przed-si¦biorstw.
@@ -158,16 +164,16 @@ L3 programming layer <2026-01-19>
 Here is how much of TeX's memory you used:
  701 strings out of 467533
  10993 string characters out of 5422138
- 443756 words of memory out of 5000000
+ 442756 words of memory out of 5000000
  29675 multiletter control sequences out of 15000+600000
  634335 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,5n,38p,869b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 35i,6n,38p,869b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on KapitalizmDoSocjalizmOD.pdf (11 pages, 123712 bytes).
+Output written on KapitalizmDoSocjalizmOD.pdf (11 pages, 124148 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
