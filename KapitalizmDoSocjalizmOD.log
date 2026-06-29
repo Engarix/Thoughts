@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.6.19)  28 JUN 2026 02:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.6.19)  29 JUN 2026 02:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -65,7 +65,13 @@ y sami stworzyli±my.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
-dvips/cm-super/cm-super-t1.enc}] [2]
+dvips/cm-super/cm-super-t1.enc}]
+Overfull \hbox (1.27931pt too wide) in paragraph at lines 65--66
+[]\T1/cmr/m/n/12 Jednak ten sam wynalazek, który miaª uªatwi¢ wspóªprac¦, szy-b
+ko ujawniª
+ []
+
+[2]
 Overfull \hbox (1.99718pt too wide) in paragraph at lines 75--76
 []\T1/cmr/m/n/12 Jednak»e sys-tem ten, po-zostaw-iony samemu so-bie bez »ad-nyc
 h ogranicze«,
@@ -107,13 +113,13 @@ Overfull \hbox (14.37982pt too wide) in paragraph at lines 164--178
 d-nak dwa odr¦bne
  []
 
-
+[7]
 Overfull \hbox (8.58661pt too wide) in paragraph at lines 179--186
 \T1/cmr/m/n/12 przeprowadza-ªby nieza-le»ny try-bunaª dzi-aªa-j¡cy w ra-mach tr
 ak-tatu wielostron-
  []
 
-[7]
+
 Overfull \hbox (0.57484pt too wide) in paragraph at lines 197--226
 \T1/cmr/m/n/12 Pro-ponowana struk-tura opiera si¦ na dwóch odd-ziel-nych warst-
 wach. Warstwa
@@ -164,7 +170,7 @@ L3 programming layer <2026-01-19>
 Here is how much of TeX's memory you used:
  701 strings out of 467533
  10993 string characters out of 5422138
- 442756 words of memory out of 5000000
+ 443756 words of memory out of 5000000
  29675 multiletter control sequences out of 15000+600000
  634335 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -173,7 +179,7 @@ Here is how much of TeX's memory you used:
 fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on KapitalizmDoSocjalizmOD.pdf (11 pages, 124148 bytes).
+Output written on KapitalizmDoSocjalizmOD.pdf (11 pages, 124173 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
