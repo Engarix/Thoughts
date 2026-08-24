@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.6.19)  29 JUN 2026 02:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.6.19)  24 AUG 2026 04:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -31,6 +31,30 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
@@ -38,26 +62,49 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 (./KapitalizmDoSocjalizmOD.aux)
 \openout1 = `KapitalizmDoSocjalizmOD.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
-Overfull \hbox (22.7809pt too wide) in paragraph at lines 25--30
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen151
+\scratchbox=\box53
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen152
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+
+Overfull \hbox (22.7809pt too wide) in paragraph at lines 26--31
 \T1/cmr/m/n/12 codzi-en-nej walki o byt wewn¡trz sys-temu gospo-dar-czego, któr
 y sami stworzyli±my.
  []
@@ -66,123 +113,140 @@ y sami stworzyli±my.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
 dvips/cm-super/cm-super-t1.enc}]
-Overfull \hbox (1.27931pt too wide) in paragraph at lines 65--66
+<GlobalWealthPerGroup.png, id=10, 2569.6pt x 1745.52126pt>
+File: GlobalWealthPerGroup.png Graphic file (type png)
+<use GlobalWealthPerGroup.png>
+Package pdftex.def Info: GlobalWealthPerGroup.png  used on input line 36.
+(pdftex.def)             Requested size: 312.00119pt x 211.93051pt.
+<global-distribution.png, id=11, 2340.745pt x 2007.5pt>
+File: global-distribution.png Graphic file (type png)
+<use global-distribution.png>
+Package pdftex.def Info: global-distribution.png  used on input line 43.
+(pdftex.def)             Requested size: 312.00119pt x 267.57002pt.
+ [2 <./GlobalWealthPerGroup.png> <./global-distribution.png (PNG copy)>] [3]
+Overfull \hbox (1.27931pt too wide) in paragraph at lines 84--85
 []\T1/cmr/m/n/12 Jednak ten sam wynalazek, który miaª uªatwi¢ wspóªprac¦, szy-b
 ko ujawniª
  []
 
-[2]
-Overfull \hbox (1.99718pt too wide) in paragraph at lines 75--76
+
+Overfull \hbox (1.99718pt too wide) in paragraph at lines 94--95
 []\T1/cmr/m/n/12 Jednak»e sys-tem ten, po-zostaw-iony samemu so-bie bez »ad-nyc
 h ogranicze«,
  []
 
-[3] [4]
-Overfull \hbox (9.30435pt too wide) in paragraph at lines 93--94
+[4] [5]
+Overfull \hbox (9.30435pt too wide) in paragraph at lines 112--113
 []\T1/cmr/m/n/12 Naturaln¡ reakcj¡ na nadu»y-cia mo-nop-o-listy-cznego kap-i-ta
 l-izmu jest wªa±nie
  []
 
 
-Overfull \hbox (21.9651pt too wide) in paragraph at lines 95--96
+Overfull \hbox (21.9651pt too wide) in paragraph at lines 114--115
 []\T1/cmr/m/n/12 Mimo tych szla-chet-nych za-ªo»e«, wdro»e-nie czys-tego soc-ja
 l-izmu jako rozwi¡za-
  []
 
-[5]
-Overfull \hbox (6.53087pt too wide) in paragraph at lines 111--117
+[6]
+Overfull \hbox (6.53087pt too wide) in paragraph at lines 130--136
 \T1/cmr/m/n/12 na-jlep-sz¡ funkcj¦ -- nap¦dza in-nowacje, na-gradza in-ic-jatyw
 ¦ i tworzy przestrze«
  []
 
-
-Overfull \hbox (2.12976pt too wide) in paragraph at lines 126--129
+[7]
+Overfull \hbox (2.12976pt too wide) in paragraph at lines 145--148
 []\T1/cmr/m/n/12 Tylko sto-su-j¡c ten podziaª kon-sek-went-nie -- wolny rynek u
  pod-staw, zarz¡d
  []
 
-[6]
-Overfull \hbox (15.85355pt too wide) in paragraph at lines 155--163
+
+Overfull \hbox (15.85355pt too wide) in paragraph at lines 174--182
 \T1/cmr/m/n/12 domin-u-j¡-cych pod-miotów sek-tora przewy»sza-j¡ce PKB okre±lon
 ej liczby pa«stw,
  []
 
 
-Overfull \hbox (14.37982pt too wide) in paragraph at lines 164--178
+Overfull \hbox (14.37982pt too wide) in paragraph at lines 183--197
 \T1/cmr/m/n/12 nie poszczegól-nych przed-si¦biorstw. Mech-a-nizm uwzgl¦d-nia je
 d-nak dwa odr¦bne
  []
 
-[7]
-Overfull \hbox (8.58661pt too wide) in paragraph at lines 179--186
+[8]
+Overfull \hbox (8.58661pt too wide) in paragraph at lines 198--205
 \T1/cmr/m/n/12 przeprowadza-ªby nieza-le»ny try-bunaª dzi-aªa-j¡cy w ra-mach tr
 ak-tatu wielostron-
  []
 
 
-Overfull \hbox (0.57484pt too wide) in paragraph at lines 197--226
+Overfull \hbox (0.57484pt too wide) in paragraph at lines 216--245
 \T1/cmr/m/n/12 Pro-ponowana struk-tura opiera si¦ na dwóch odd-ziel-nych warst-
 wach. Warstwa
  []
 
 
-Overfull \hbox (6.0392pt too wide) in paragraph at lines 197--226
+Overfull \hbox (6.0392pt too wide) in paragraph at lines 216--245
 \T1/cmr/m/n/12 Rz¡dy pa«stw-wspóªwªa±cicieli peªni¡ wyª¡cznie funkcj¦ gwaranta 
 in-sty-tucjon-
  []
 
 
-Overfull \hbox (25.09795pt too wide) in paragraph at lines 197--226
+Overfull \hbox (25.09795pt too wide) in paragraph at lines 216--245
 \T1/cmr/m/n/12 powier-nicze dzi-aªa wedªug za-sady peªnej trans-par-ent-no±ci f
 i-nan-sowej -- wzorowanej
  []
 
 
-Overfull \hbox (21.70435pt too wide) in paragraph at lines 197--226
+Overfull \hbox (21.70435pt too wide) in paragraph at lines 216--245
 \T1/cmr/m/n/12 west-y-cje planowane s¡ dªu-goter-mi-nowo, na wzór nor-weskiego 
 fun-duszu naftowego:
  []
 
-[8] [9] [10]
-Overfull \hbox (11.84969pt too wide) in paragraph at lines 311--312
+[9] [10] [11]
+Overfull \hbox (11.84969pt too wide) in paragraph at lines 330--331
 \T1/cmr/m/n/12 nie przez po-je-dyncze pa«stwa po-datne na za-wªaszcze-nie, lecz
  przez wielostronny
  []
 
 
-Overfull \hbox (12.30634pt too wide) in paragraph at lines 313--314
+Overfull \hbox (12.30634pt too wide) in paragraph at lines 332--333
 []\T1/cmr/m/n/12 Musimy za-chowa¢ kap-i-tal-izm na poziomie maªych i ±red-nich 
 przed-si¦biorstw.
  []
 
 
-Overfull \hbox (33.87555pt too wide) in paragraph at lines 317--318
+Overfull \hbox (33.87555pt too wide) in paragraph at lines 336--337
 \T1/cmr/m/n/12 którego »aden monopol nie jest w stanie za-wªaszczy¢, mo»emy chr
 oni¢ spoªecze«stwo
  []
 
-[11] (./KapitalizmDoSocjalizmOD.aux)
+[12]
+Overfull \hbox (95.35196pt too wide) in paragraph at lines 343--345
+\T1/cmr/m/n/12 https://ourworldindata.org/global-economic-inequality-introducti
+on https://wir2026.wid.world 
+ []
+
+[13] (./KapitalizmDoSocjalizmOD.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 701 strings out of 467533
- 10993 string characters out of 5422138
- 443756 words of memory out of 5000000
- 29675 multiletter control sequences out of 15000+600000
+ 1558 strings out of 467533
+ 24073 string characters out of 5422138
+ 442756 words of memory out of 5000000
+ 30499 multiletter control sequences out of 15000+600000
  634335 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,38p,869b,196s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,869b,230s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on KapitalizmDoSocjalizmOD.pdf (11 pages, 124173 bytes).
+Output written on KapitalizmDoSocjalizmOD.pdf (13 pages, 727303 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
